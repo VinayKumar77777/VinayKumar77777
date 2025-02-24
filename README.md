@@ -12,6 +12,8 @@
 
 - ⚡ Fun fact *I think I am funny*
 
+Checkout my Portfolio and Give rating or text me ------>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinay-kumar-h-s-5ab572249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay-kumar-h-s-5ab572249" height="30" width="40" /></a>

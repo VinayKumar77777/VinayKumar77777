@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact *I think I am funny*
 
-Checkout my Portfolio and Give rating or text me ------>
+Checkout my Portfolio and Give rating or text me ------>https://vinaykumar77777.github.io/Portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
